@@ -1,6 +1,6 @@
 # COMP 584 Homework 3
 
-# Hosted Web Link:
+# Hosted Web Link: https://byronurrutia.github.io/comp584_hw4/
 
 * Remix your previous HW to create a new Glitch Project. 
 * Redo HW3 using CSS grid
